@@ -1,0 +1,7 @@
+/home/jasonzz/pro/green-light-tracker/build-arm/CMakeFiles/green-light-tracker.dir
+/home/jasonzz/pro/green-light-tracker/build-arm/CMakeFiles/edit_cache.dir
+/home/jasonzz/pro/green-light-tracker/build-arm/CMakeFiles/rebuild_cache.dir
+/home/jasonzz/pro/green-light-tracker/build-arm/CMakeFiles/list_install_components.dir
+/home/jasonzz/pro/green-light-tracker/build-arm/CMakeFiles/install.dir
+/home/jasonzz/pro/green-light-tracker/build-arm/CMakeFiles/install/local.dir
+/home/jasonzz/pro/green-light-tracker/build-arm/CMakeFiles/install/strip.dir
